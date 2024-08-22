@@ -1,2 +1,2 @@
 # NEXUS-X
-NEXUS-X Built Using HTML And CSS.
+NEXUS-X Built Using HTML,CSS And Javascript.
